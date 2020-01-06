@@ -4,8 +4,6 @@ import Banner from '../components/Banner/Banner';
 
 const VisaPage = () => (
   <MainLayout>
-    <Banner />
-
     <div className="container">
       <h1>Getting a Chinese Visa</h1>
 

@@ -7,7 +7,6 @@ import faqContent from '../content/QAs.json';
 const Home = () => {
   return (
     <MainLayout>
-      <Banner />
       <FAQs content={faqContent} />
     </MainLayout>
   );

@@ -24,3 +24,16 @@ h1, h2, h3, h4, h5, h6 {
 .card-header > h4 {
   line-height: 1.5;
 }
+
+.nav-override .nav-link {
+  color: var(--color-black);
+}
+
+.nav-override .nav-link.active, .nav-pills .show>.nav-link {
+  background-color: var(--color-blue);
+  color: var(--color-black);
+}
+
+.bg-blue {
+  background-color: var(--color-blue);
+}

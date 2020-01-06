@@ -3,12 +3,12 @@ import React from 'react';
 const FAQs = ({ content }) => (
   <section className="container">
     {content.map(({ q, a }) => (
-      <div class="card mb-4">
-        <div class="card-header">
-          <h4 class="mb-0">{q}</h4>
+      <div className="card mb-4" key={q}>
+        <div className="card-header">
+          <h4 className="mb-0">{q}</h4>
         </div>
 
-        <div class="card-body" dangerouslySetInnerHTML={{__html: a}} />
+        <div className="card-body" dangerouslySetInnerHTML={{__html: a}} />
       </div>
     ))}
 
