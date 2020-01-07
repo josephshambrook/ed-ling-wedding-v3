@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Banner = () => (
-  <section className="jumbotron text-center banner">
+  <section className="jumbotron text-center banner bg-tiffany">
     <div className="container">
       <img src="/double_happiness.svg" alt="Double happiness" className="banner__dh mb-4" />
       <h1 className="display-3 mb-4">Edward & Ling</h1>

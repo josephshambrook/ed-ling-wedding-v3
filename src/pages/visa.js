@@ -7,7 +7,7 @@ const VisaPage = () => (
     <div className="container">
       <h1>Chinese Visa Application Guidance</h1>
 
-      <div className="alert alert-info mt-4 mb-4" role="alert">Disclaimer: The following document is intended for general guidance only. It is the user's responsibility to remain up to date with any changes issued by the Peoples Republic of China and the authors cannot be held liable for any losses that may be incurred as a result of following this guide.</div>
+      <div className="alert alert-tiffany mt-4 mb-4" role="alert">Disclaimer: The following document is intended for general guidance only. It is the user's responsibility to remain up to date with any changes issued by the Peoples Republic of China and the authors cannot be held liable for any losses that may be incurred as a result of following this guide.</div>
 
       <h2>Preparing for Application</h2>
 
@@ -27,7 +27,7 @@ const VisaPage = () => (
 
       <h2>Application Process</h2>
 
-      <div className="alert alert-info mt-4 mb-4" role="alert">Please note: there are multiple captchas (security checks) throughout the application process. Due to the precision required to complete these, it is advised to complete the application on a computer, rather than tablet or phone.</div>
+      <div className="alert alert-tiffany mt-4 mb-4" role="alert">Please note: there are multiple captchas (security checks) throughout the application process. Due to the precision required to complete these, it is advised to complete the application on a computer, rather than tablet or phone.</div>
 
       <ol className="list-spacing">
         <li>On the initial website (<a href="http://www.visaforchina.org">www.visaforchina.org</a>), select the relevant country (e.g. UK), and to the immediate right, select the closest geographical location, as this will give you more relevant information to your application.</li>

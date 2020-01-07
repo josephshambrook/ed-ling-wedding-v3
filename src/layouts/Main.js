@@ -1,7 +1,5 @@
 import React, { useEffect } from 'react';
 import Head from 'next/head';
-// import '../css/bootstrap.min.css';
-// import '../css/custom.css';
 import '../scss/custom.scss';
 import Banner from '../components/Banner/Banner';
 import Nav from '../components/Nav/Nav';
