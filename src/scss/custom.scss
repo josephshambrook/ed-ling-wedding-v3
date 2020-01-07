@@ -6,7 +6,6 @@ $black: #222;
 
 $theme-colors: (
   "tiffany": $tiffany,
-  "red": $red,
   "danger": $red
 );
 
@@ -34,6 +33,7 @@ $theme-colors: (
 @import "node_modules/bootstrap/scss/card";
 @import "node_modules/bootstrap/scss/buttons";
 
+// Custom styles
 .list-spacing li {
   margin-bottom: 0.5rem;
 }
