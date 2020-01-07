@@ -2,49 +2,53 @@
   {
     "q": "What is the date and time of the wedding?",
     "a": "Whilst the time is yet to be decided, the date is firmly set as June 28th."
-},
-{
-    "q": "What time will the wedding reception take place?",
-    "a": "Again, this is yet to be decided. The exact time will be given when formal invites are sent out, which will happen in about a month's time. Please appreciate that this poses a significant logistical challenge for us, so please be patient."
-},
-{
-    "q": "Where will it be?",
-    "a": "The wedding and reception will be held at Furama Hotel, Beihai, China. Further details can be found on the hotel's official website, which can be found by <a href=\"http://www.furamahotelbeihai.com\">following this link</a>."
-},
-{
-    "q": "When do we need to RSVP?",
-    "a": "As mentioned before, invites will be sent out soon. Please make sure to RSVP by February 31st, 2020."
-},
-{
-    "q": "Is there a dress code?",
-    "a": "For various cultural reasons, we don't have a formal dress code. However, please note that it will be a beach wedding, so we would recommend smart beach attire. We would not recommend suits and ties, as you will be very hot."
-},
-{
-    "q": "What will the wedding actually consist of?",
-    "a": "There are several different traditions that we will be observing. There will be tea ceremonies, dinner, dancing, bartering for the bride, costume changes, photos of the happy couple next to certain landmarks, as well as a traditional western wedding ceremony, and a few other surprises. Our advice to both sets of guests would be to just go along with it and have fun!"
-},
-{
-    "q": "Where can I stay?",
-    "a": "There are multiple hotels around Beihai where you can stay.  As Beihai is a relatively small city, getting from one side of the city to the other is not a particularly challenging thing to do. For that reason, booking any hotel in Beihai would be OK. However, the wedding is taking place at Furama Hotel, so it might be especially convenient to book a room there. Alternatively, the Shangri-La Hotel is directly next to Furama Hotel. If you do wish to book a room at Furama Hotel, please contact Edward or Ling in advance, as it might be possible to negotiate a group deal that could save you money."
-},
-{
-    "q": "I've decided to stay in a hotel which is quite far away from the wedding venue. How will I get to the wedding venue on the day of the wedding?",
-    "a": "As mentioned before, Beihai is a relatively small city. Wherever you decide to stay in Beihai, it's a pretty fair bet that you won't be too far away from the wedding venue. However, there's a chance that you may need to arrange for a taxi to the hotel on the day of the wedding if your hotel is a bit further away. Should you need assistance with this, please let us know a day or so beforehand, and we will be glad to help. "
-},
-{
-    "q": "What do I do if I have certain dietary requirements?",
-    "a": "If you have any dietary requirements, please contact us prior to the wedding, and we will be more than happy to accommodate you."
-},
-{
-    "q": "Do I have to get a visa to go to China?",
-    "a": "Yes, you will need a visa to visit China. It's a complicated process, so <a href=\"/visa\">we've created a whole page entirely for it</a>."
-},
-{
-    "q": "Is there anything I should do before coming to China?",
-    "a": "We would thoroughly recommend downloading the following apps either before or after coming to China:<ul class=\"faq-list mt-4\"><li><strong>Astrill or Potatso Lite</strong>: These VPNs will help you to access popular websites such as Facebook, YouTube, and Google, all of which are blocked in China.   We would thoroughly recommend getting a VPN connection before coming to China, as not doing so could prove a hassle. Both Astrill and Potatso Lite come highly recommended, although you might have to look at payment plans to ensure that you don't have to pay for a full year.</li><li><strong>WeChat</strong>: It's been said that everyone needs WeChat to survive in China, and for good reason. It's arguably the most popular source of communication in China, can be used to translate the food menu, transfer files, book flights/trains, and so on. For logistical reasons, however, it might be easier to download it once you're actually in China, unless you ordinarily use an Android Device, in which case you may need a VPN.</li><li><strong>Baidu Maps</strong>: This app can be used to find your way around better than you might otherwise be able to do on Apple Maps or Google Maps, both of which are not as reliable a source of geographical information in China. Whilst addresses must be typed in Chinese, it is useful if you have the Chinese address to hand, in which case the address can simply be copied and pasted into the search box. It is also useful if you wish to see which Metro train to take, as you simply have to type the name of the station in English followed by \"lu\" (which means \"road\" in Chinese. From there, you just need to select the name of the station, which is easy enough to do since the name of the station is always accompanied by the relevant line number. This app can be easily downloaded when actually in China, unless you ordinarily use an Android Device, in which case you may need a VPN in order to do so.</li><li><strong>Didi</strong>: This app could save you the time and the energy needed to physically hail a cab. Furthermore, it allows you to enter the address before the trip begins, which is useful for overcoming language barriers.  However, it is currently not possible to use anything other than a Chinese bank card to pay for transactions via this app. For this reason, it might be best to speak to Edward either in advance or when in China for ways to circumvent this. So far as actually downloading the app itself is concerned, this is very easy to do once in China, unless you ordinarily use an Android Device, in which case you may need a VPN in order to do so.</li><li><strong>Mobike</strong>: Riding a bike from A to B can be an excellent way to get around in China. Mobikes, which are public-use bikes that can be opened using your mobile, can make life very convenient, especially when you're twenty minutes away from your nearest subway station. However, it is again currently not possible to use anything other than a Chinese bank card to pay for transactions via this app. Again, it might be best to speak to Edward either in advance or when in China for ways to circumvent this. Should you be able to use a Mobike whilst in China, please make sure to stay safe, and DO NOT RIDE ON THE LEFT SIDE OF THE ROAD OR ON THE PAVEMENT, even if you see other people doing it. Contrary to popular belief, this is actually against the law in China. The police have been cracking down hard on these particular offenses in recent months, and police regularly stand in covert spots in an attempt to catch people doing it, especially in Shanghai. If you are caught by the police, you could face a fine and/or other penalties. You have been warned!</li></ul>"
-},
-{
-    "q": "How will I get into contact with you if I need a bit of help?",
-    "a": "If you have any questions, please use the contact form below. Alternatively, please contact Edward at edwardshambrook@googlemail.com, or on WeChat at Edward_Shambrook."
-}
+  },
+  {
+      "q": "What time will the wedding reception take place?",
+      "a": "Again, this is yet to be decided. The exact time will be given when formal invites are sent out, which will happen in about a month's time. Please appreciate that this poses a significant logistical challenge for us, so please be patient."
+  },
+  {
+      "q": "Where will it be?",
+      "a": "The wedding and reception will be held at Furama Hotel, Beihai, China. Further details can be found on the hotel's official website, which can be found by <a href=\"http://www.furamahotelbeihai.com\">following this link</a>."
+  },
+  {
+      "q": "How do we get to Beihai?",
+      "a": "You will almost certainly need to get a flight to another Chinese city first, such as Nanning, Shanghai, or Beijing. From there, you can book a flight or other mode of transport to Beihai. Bear in mind that details about internal flights might not be posted until close to the time, so it would be advisable to book a flight to Shanghai or elsewhere long in advance, and then book a flight or train to Beihai closer to the date of the wedding."
+  },
+  {
+      "q": "When do we need to RSVP?",
+      "a": "As mentioned before, invites will be sent out soon. Please make sure to RSVP by February 31st, 2020."
+  },
+  {
+      "q": "Is there a dress code?",
+      "a": "For various cultural reasons, we don't have a formal dress code. However, please note that it will be a beach wedding, so we would recommend smart beach attire. We would not recommend suits and ties, as you will be very hot."
+  },
+  {
+      "q": "What will the wedding actually consist of?",
+      "a": "There are several different traditions that we will be observing. There will be tea ceremonies, dinner, dancing, bartering for the bride, costume changes, photos of the happy couple next to certain landmarks, as well as a traditional western wedding ceremony, and a few other surprises. Our advice to both sets of guests would be to just go along with it and have fun!"
+  },
+  {
+      "q": "Where can I stay?",
+      "a": "There are multiple hotels around Beihai where you can stay.  As Beihai is a relatively small city, getting from one side of the city to the other is not a particularly challenging thing to do. For that reason, booking any hotel in Beihai would be OK. However, the wedding is taking place at Furama Hotel, so it might be especially convenient to book a room there. Alternatively, the Shangri-La Hotel is directly next to Furama Hotel. If you do wish to book a room at Furama Hotel, please contact Edward or Ling in advance, as it might be possible to negotiate a group deal that could save you money."
+  },
+  {
+      "q": "I've decided to stay in a hotel which is quite far away from the wedding venue. How will I get to the wedding venue on the day of the wedding?",
+      "a": "As mentioned before, Beihai is a relatively small city. Wherever you decide to stay in Beihai, it's a pretty fair bet that you won't be too far away from the wedding venue. However, there's a chance that you may need to arrange for a taxi to the hotel on the day of the wedding if your hotel is a bit further away. Should you need assistance with this, please let us know a day or so beforehand, and we will be glad to help. "
+  },
+  {
+      "q": "What do I do if I have certain dietary requirements?",
+      "a": "If you have any dietary requirements, please contact us prior to the wedding, and we will be more than happy to accommodate you."
+  },
+  {
+      "q": "Do I have to get a visa to go to China?",
+      "a": "Yes, you will need a visa to visit China. It's a complicated process, so <a href=\"/visa\">we've created a whole page entirely for it</a>."
+  },
+  {
+      "q": "Is there anything I should do before coming to China?",
+      "a": "We would thoroughly recommend downloading the following apps either before or after coming to China:<ul class=\"list-spaced mt-4\"><li><strong>Astrill or Potatso Lite</strong>: These VPNs will help you to access popular websites such as Facebook, YouTube, and Google, all of which are blocked in China.   We would thoroughly recommend getting a VPN connection before coming to China, as not doing so could prove a hassle. Both Astrill and Potatso Lite come highly recommended, although you might have to look at payment plans to ensure that you don't have to pay for a full year.</li><li><strong>WeChat</strong>: It's been said that everyone needs WeChat to survive in China, and for good reason. It's arguably the most popular source of communication in China, can be used to translate the food menu, transfer files, book flights/trains, and so on. For logistical reasons, however, it might be easier to download it once you're actually in China, unless you ordinarily use an Android Device, in which case you may need a VPN.</li><li><strong>Baidu Maps</strong>: This app can be used to find your way around better than you might otherwise be able to do on Apple Maps or Google Maps, both of which are not as reliable a source of geographical information in China. Whilst addresses must be typed in Chinese, it is useful if you have the Chinese address to hand, in which case the address can simply be copied and pasted into the search box. It is also useful if you wish to see which Metro train to take, as you simply have to type the name of the station in English followed by \"lu\" (which means \"road\" in Chinese. From there, you just need to select the name of the station, which is easy enough to do since the name of the station is always accompanied by the relevant line number. This app can be easily downloaded when actually in China, unless you ordinarily use an Android Device, in which case you may need a VPN in order to do so.</li><li><strong>Didi</strong>: This app could save you the time and the energy needed to physically hail a cab. Furthermore, it allows you to enter the address before the trip begins, which is useful for overcoming language barriers.  However, it is currently not possible to use anything other than a Chinese bank card to pay for transactions via this app. For this reason, it might be best to speak to Edward either in advance or when in China for ways to circumvent this. So far as actually downloading the app itself is concerned, this is very easy to do once in China, unless you ordinarily use an Android Device, in which case you may need a VPN in order to do so.</li><li><strong>Mobike</strong>: Riding a bike from A to B can be an excellent way to get around in China. Mobikes, which are public-use bikes that can be opened using your mobile, can make life very convenient, especially when you're twenty minutes away from your nearest subway station. However, it is again currently not possible to use anything other than a Chinese bank card to pay for transactions via this app. Again, it might be best to speak to Edward either in advance or when in China for ways to circumvent this. Should you be able to use a Mobike whilst in China, please make sure to stay safe, and DO NOT RIDE ON THE LEFT SIDE OF THE ROAD OR ON THE PAVEMENT, even if you see other people doing it. Contrary to popular belief, this is actually against the law in China. The police have been cracking down hard on these particular offenses in recent months, and police regularly stand in covert spots in an attempt to catch people doing it, especially in Shanghai. If you are caught by the police, you could face a fine and/or other penalties. You have been warned!</li></ul>"
+  },
+  {
+      "q": "How will I get into contact with you if I need a bit of help?",
+      "a": "If you have any questions, please use the contact form below. Alternatively, please contact Edward at edwardshambrook@googlemail.com, or on WeChat at Edward_Shambrook."
+  }
 ]
