@@ -5,65 +5,89 @@ import Banner from '../components/Banner/Banner';
 const VisaPage = () => (
   <MainLayout>
     <div className="container">
-      <h1>Getting a Chinese Visa</h1>
+      <h1>Chinese Visa Application Guidance</h1>
 
-      <p>The following notes are a general guide to getting a Chinese Visa. Please check latest requirements in case they have changed.</p>
+      <div className="alert alert-info mt-4 mb-4" role="alert">Disclaimer: The following document is intended for general guidance only. It is the user's responsibility to remain up to date with any changes issued by the Peoples Republic of China and the authors cannot be held liable for any losses that may be incurred as a result of following this guide.</div>
 
-      <p>First off all make sure your passport has at least 6 months before expiry and 2 facing blank pages.</p>
+      <h2>Preparing for Application</h2>
 
-      <p>Go to website <a href="www.visaforchina.org">www.visaforchina.org</a>. This is the official UK Chinese visa agency, there are a number of other agencies you can go to but they will cost more and you go through exactly the same process. The exception is a group visa. According to some web sites this is a cheaper option for 2 travellers or more but I have not used it so can’t say anything about how you go about it. I did enquire a couple of years ago and they needed a lot more time to arrange it. Be careful as the visa rules have changed recently.</p>
-
-      <p>For UK citizens the default Chinese tourist visa appears to be 2 year multi-trip and costs £151 per traveller. You can apply up to 3 months before the date of travel and it took less than 2 weeks to get the visa from the initial application. This was in December, it may be busier at other times.</p>
-
-      <p>There is an express service at extra cost but it only saves 1 day between the interview and picking up or receiving your passport back with the visa. Note they take your passport and keep it at the interview so you won’t be able to go anywhere until you get it back.</p>
-
-      <h2>Steps</h2>
-
-      <p>First of all, go to the web site <a href="www.visaforchina.org">www.visaforchina.org</a> and click on Visa here:</p>
-
-      <img src="/visa_01.png" alt="Screenshot showing where the visa button is" className="mb-4" />
-
-      <p>Then at bottom right click on New Application Form:</p>
-
-      <img src="/visa_02.png" alt="Screenshot showing where the New Application Form button is" className="mb-4" />
-
-      <p>At various points you have to do this weird jigsaw security thing. You pick up the piece with the mouse and slide it to the right until it matches the hole. You may find that you can’t do that on a touch screen phone or tablet so will have to use a PC.</p>
-
-      <p>Then fill out the application form. It will take some time and you will need:</p>
-
-      <ul>
-        <li>Passport details</li>
-        <li>Your flight bookings for the initial visit. Must be a return trip.</li>
-        <li>Hotel booking details for the initial visit. You MUST have a confirmed hotel reservation for each night in China between the inbound and outbound flight dates.</li>
-        <li>Other information like Parents and children’s date of birth</li>
-        <li>A digital picture of the applicant. You can take it with a phone and crop it to the right size in the form but it must be against a white background, in good light so no shadows on face and hair pulled back off the face. If it rejects the photo try taking it again.</li>
+      <ul className="list-spacing">
+        <li>Each applicant's passport must be valid for <strong>at least 6 months</strong> at the time of applying for the visa, as well as at least <strong>2 blank pages</strong>.</li>
+        <li>Applications are processed individually through <a href="http://www.visaforchina.org">www.visaforchina.org</a>, the official Chinese UK visa agency</li>
+        <li>The visa will be valid for 2 years, for multiple trips and will cost each applicant <strong>&pound;151</strong></li>
+        <li>Applications can be submitted up to 3 months before the outbound travel date</li>
+        <li>The application process, including receiving the visa, can take around 2 weeks, but this depends on the time of year</li>
+        <li>A range of specific details are required to be submitted during the application process (see the guidance below). It is advised to read this guidance through before beginning the application, so an applicant can have the information to hand when completing an application. Please note that an application can be saved and re-opened at a later time.</li>
+        <li>It is possible to request an express service, at an extra cost. This will eliminate 1 day between the interview and the return of the applicant's passport.</li>
       </ul>
 
-      <p>Make a note of the application number (copy/paste somewhere) as soon as you start the form, you will need it if you save and close the form and go back to finish it.</p>
+      <p>It is possible to apply for a group visa. For further information, please see <a href="http://www.visaforchina.org">www.visaforchina.org</a>, or contact Edward Shambrook.</p>
 
-      <p>Some hints for the form:</p>
+      <hr className="mt-5 mb-5" />
+
+      <h2>Application Process</h2>
+
+      <div className="alert alert-info mt-4 mb-4" role="alert">Please note: there are multiple captchas (security checks) throughout the application process. Due to the precision required to complete these, it is advised to complete the application on a computer, rather than tablet or phone.</div>
+
+      <ol className="list-spacing">
+        <li>On the initial website (<a href="http://www.visaforchina.org">www.visaforchina.org</a>), select the relevant country (e.g. UK), and to the immediate right, select the closest geographical location, as this will give you more relevant information to your application.</li>
+
+        <li>On the landing page, under "Quick Access", click "Visa".</li>
+
+        <li>On the bottom right of the next page, select "New Application Form".</li>
+
+        <li>Upon beginning a new application, a unique application number will be allocated. It is advised to make a physical note of this, as this is used to save and re-open an application.</li>
+
+        <li>Applicants must input the following information to complete the application:</li>
+
+        <ul>
+          <li>The visa type required is Tourist (L)</li>
+          <li>The only options for length and number of trips for a Tourist Visa, is <strong>2 year multiple trip</strong></li>
+          <li><strong>Unique information which applicants are required to have to hand:</strong></li>
+          <ul>
+            <li>The applicant's passport</li>
+            <li>Information about previous travel, particularly specific details about travel to China, and travel for which there are passport stamps</li>
+            <li>Inbound flight booking information (note: this must be a return trip)</li>
+            <li>Hotel booking information in China (note: there must be a <strong>confirmed</strong> hotel reservation for all nights in China between the inbound and outbound flight dates)</li>
+            <li>Parents addresses and date of birth (if applicable)</li>
+            <li>Children's date of birth (if applicable)</li>
+            <li>A digital picture of the applicant (The requirements match most UK passport requirements, but this can be taken on a phone and uploaded)</li>
+          </ul>
+        </ul>
+
+        <li>Submit the application.</li>
+
+        <li>Applicants <strong>must</strong> book an interview. Multiple applications can be submitted simultaneously for the same interview, but <strong>all</strong> applicants <strong>must</strong> attend the visa application centre.</li>
+
+        <ul>
+          <li>Note: an applicant's passport will be handed over to the Chinese authorities following a successful interview, to issue the visa. As this can take around 2 weeks, it is not advised schedule an interview for a period when an applicant's passport may be required.</li>
+        </ul>
+      </ol>
+
+      <hr className="mt-5 mb-5" />
+
+      <h2>Attending the interview</h2>
+
+      <p>When attending the interview,<strong> all</strong> applicants <strong>must</strong> bring:</p>
 
       <ul>
-        <li>You want a tourist (L) visa </li>
-        <li>It will ask for how long you want the visa to last and single, two or multiple trips but there does not seem to be any choice other than a 2 year multiple trip for tourists.</li>
-        <li>It will ask for every country you have visited in the last 5 years. I made sure that I listed every one for which I had a stamp in my passport and others I could remember but I don’t think they have a way of checking.</li>
-        <li>If you have visited China previously it will want to know exactly what city and county you stayed in. I had to dig out old hotel bookings.</li>
-        <li>It asked for Parents addresses so I clicked “not applicable” and put “Parent deceased” in the box.</li>
+        <li>Passport</li>
+        <li>Printed application form</li>
+        <li>Printed flight bookings</li>
+        <li>Printed hotel reservation(s)</li>
+
+        <ul>
+          <li>Note: even when travelling together, each applicant must bring a <strong>unique</strong> copy of documents (b-d)</li>
+        </ul>
+
+        <li>Debit card to pay application fee (credit cards are not accepted)</li>
       </ul>
 
-      <p>Once you have finished the form you can make a booking for the interview. You can do several forms and make one interview but EVERY applicant MUST go to the visa application centre and take with them:</p>
+      <p>The interview can be expected to take 60 minutes, depending on the time of year.</p>
 
-      <ul>
-        <li>Their passport</li>
-        <li>A print out of the application form</li>
-        <li>A print of the flight booking and hotel reservations. You MUST have a print of each for EVERY applicant, even if you are travelling together.</li>
-        <li>A DEBIT card to pay the visa fee</li>
-      </ul>
+      <p>Upon arrival, an initial check of documents (a-d) will be completed. Following a successful check of documentation, applicants will be interviewed. During the interview, an employee will take each applicant's fingerprints, and go over the application form.</p>
 
-      <p>When you get to the visa centre go to the reception just inside the door and they will do an initial check that you have all the documentation. You will then be given a ticket to wait for an interview. They will go through the form in detail and take your fingerprints during the interview.</p>
-      <p>You will then be directed to another area to pay. They will give you a receipt if you are coming back to collect, or you can pay extra to have your passport with the visa posted to you recorded delivery.</p>
-      <p>The whole process took less than an hour when we went but may be busier at other times of year.</p>
-      <p>When returning to the visa centre to pick up the passport with visa go to reception again who will give you a queue ticket. I went in at lunchtime and was out within 15 minutes.</p>
+      <p>Following a successful interview, applicants will be requested payment for the application and visa. Applicants who choose to return to collect their passport will receive a receipt. For an extra cost, applicants can request recorded delivery.</p>
     </div>
   </MainLayout>
 );

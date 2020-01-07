@@ -15,13 +15,15 @@ const Nav = () => {
   ];
 
   return (
-    <ul className="nav nav-pills nav-override mb-4 justify-content-center">
-      { pages.map(({ slug, title }) => (
-        <li className="nav-item" key={slug}>
-          <a className={`nav-link ${slug === pathname ? 'active' : ''}`} href={slug}>{title}</a>
-        </li>
-      )) }
-    </ul>
+    <nav className="navbar navbar-expand navbar-light nav-override mb-4 justify-content-center">
+      <ul className="navbar-nav">
+        { pages.map(({ slug, title }) => (
+          <li key={slug} className={`nav-item ${pathname === slug ? 'active' : ''}`}>
+            <a className="nav-link" href={slug}>{title}</a>
+          </li>
+        )) }
+      </ul>
+    </nav>
   )
 };
 
